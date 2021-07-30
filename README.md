@@ -17,7 +17,7 @@ print_r($response);
 #### Based on
 * [elliptic-php](https://github.com/simplito/elliptic-php)
 * [php-keccak](https://github.com/kornrunner/php-keccak)
-* 
+
 #### Helpful links
 * [Streamr developer docs](https://streamr.network/docs/getting-started)
 * [Streamr API explorer](https://api-explorer.streamr.com)
